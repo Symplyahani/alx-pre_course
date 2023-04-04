@@ -1,1 +1,1 @@
-my journey
+“Starting to code today, so cool”
